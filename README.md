@@ -30,7 +30,7 @@ CMHub é uma rede social multiplataforma projetada para conectar pessoas, compar
 Para instalar e rodar o projeto localmente, siga os passos abaixo:
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/vitukjkk/CMHub.git
+   git clone https://github.com/vitorxzspes/CMHub.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash

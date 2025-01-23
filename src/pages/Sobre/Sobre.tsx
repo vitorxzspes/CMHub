@@ -46,13 +46,13 @@ export default function Sobre() {
                     </div>
 
                     <div className={styles.divMainOneContact}>
-                        <a href="https://instagram.com/vitukjkkk" target="_blank">
+                        <a href="https://instagram.com/vitorxzspes" target="_blank">
                             <img src={Instagram} alt="ícone instagram"/>
                         </a>
                     </div>
 
                     <div className={styles.divMainOneContact}>
-                        <a id="imgMainContactGitHub" href="https://github.com/vitukjkk" target="_blank">
+                        <a id="imgMainContactGitHub" href="https://github.com/vitorxzspes" target="_blank">
                             <img src={GitHub} alt="ícone github"/>
                         </a>
                     </div>
@@ -64,13 +64,13 @@ export default function Sobre() {
                     </div>
 
                     <div className={styles.divMainOneContact}>
-                        <a href="https://www.facebook.com/seituuu.u/" target="_blank">
+                        <a href="https://www.facebook.com/vitorxzspes/" target="_blank">
                             <img src={Facebook} alt="ícone facebook"/>
                         </a>
                     </div>
                     
                     <div className={styles.divMainOneContact}>
-                        <a href="https://youtube.com/%40vitukjkkk" target="_blank">
+                        <a href="https://youtube.com/%40vitorxzspes" target="_blank">
                             <img src={YouTube} alt="ícone youtube"/>
                         </a>
                     </div>
